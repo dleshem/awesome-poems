@@ -8,3 +8,4 @@
 * [A Week Apart](https://www.srugim.co.il/wp-content/uploads/2018/04/ZUR2.jpg) by Tsur Ehrlich (translated: [English](http://tsurehrlich.blogspot.com/2019/05/blog-post.html))
 * [If—](https://www.poetryfoundation.org/poems/46473/if---) by Rudyard Kipling
 * [For Whom the Bell Tolls](https://allpoetry.com/For-whom-the-Bell-Tolls) by John Donne (from [Meditation XVII](https://en.wikisource.org/wiki/Meditation_XVII)).
+* [Do Not Go Gentle Into That Good Night](https://poets.org/poem/do-not-go-gentle-good-night) by Dylan Thomas.
