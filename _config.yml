@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+
+title: Awesome Poems
+description: A curated list of awesome poems.
+
+google_analytics: 
+
+github:
+  is_project_page: false
